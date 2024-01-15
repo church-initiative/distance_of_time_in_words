@@ -54,8 +54,8 @@ module DOTIW
       minutes: 30,
       hours: 12,
       days: 4,
-      weeks: 2,
-      months: 6,
+      weeks: 3,
+      months: 11,
       years: Float::INFINITY,
     }
 
